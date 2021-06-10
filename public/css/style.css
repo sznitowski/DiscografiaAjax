@@ -1,0 +1,32 @@
+*{
+    font-family: monospace;
+    font-size: medium;
+    color: rgb(10, 10, 10);
+    text-align: center;
+}
+body {
+    background: #8c4bb7;
+    background: -webkit-linear-gradient(to right, #9db8f0, #2f93b1);
+    background: linear-gradient(to right, #929fb9, #44a6c4);
+}
+img {
+    margin-top: 8px;
+    width: 80%;
+    border: 4px solid white;
+    border-radius: 4px;
+}
+input {
+    width: 250px;
+    height: 30px;
+    margin: 4px;
+    border-radius: 6px;
+    background-color: rgb(255, 255, 255);
+}
+#buscar{
+    color: white;
+    background-color: blue;
+
+}
+#buscar:hover{
+    background-color: turquoise;
+}
